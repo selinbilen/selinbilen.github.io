@@ -758,12 +758,16 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-text-1 {
+    margin-top: 77px;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 2.25rem;
     width: 340px;
-    font-size: 3rem;
   }
 
   .u-section-4 .u-text-2 {
     width: 340px;
+    margin-top: 18px;
   }
 
   .u-section-4 .u-shape-1 {
@@ -773,6 +777,7 @@
 
   .u-section-4 .u-shape-2 {
     width: 390px;
+    margin-right: 0;
     margin-left: -50px;
   }
 
