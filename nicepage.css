@@ -31366,38 +31366,93 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 5px 0;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 114px;
+  }
+
   .u-header .u-social-icons-1 {
-    width: 95px;
+    width: 36px;
     margin-top: -34px;
+    margin-right: 16px;
   }
 
   .u-header .u-icon-2 {
-    height: 40px;
-    width: 40px;
-    margin-top: -43px;
-    margin-right: 76px;
+    height: 33px;
+    width: 33px;
+    margin-top: -35px;
+    margin-right: 68px;
   }
 
   .u-header .u-btn-1 {
-    margin-top: -12px;
-    margin-right: 0;
+    margin-top: -34px;
+    margin-right: 117px;
+    margin-bottom: 52px;
   }
 }
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 110px;
+  }
 
-@media (max-width: 767px) {
   .u-header .u-social-icons-1 {
     margin-top: -36px;
   }
 
   .u-header .u-icon-2 {
-    margin-top: -43px;
+    height: 36px;
+    width: 36px;
+    margin-top: -36px;
+    margin-right: 65px;
   }
 
   .u-header .u-btn-1 {
-    margin-top: -12px;
+    margin-top: -34px;
+    margin-right: 114px;
+    margin-bottom: 52px;
   }
 }
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 108px;
+  }
 
+  .u-header .u-social-icons-1 {
+    height: 40px;
+    width: 40px;
+    margin-top: -36px;
+    margin-right: 0;
+  }
+
+  .u-header .u-icon-2 {
+    height: 32px;
+    width: 32px;
+    margin-top: -36px;
+    margin-right: 48px;
+  }
+
+  .u-header .u-btn-1 {
+    margin-top: -32px;
+    margin-right: 92px;
+    margin-bottom: 48px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-social-icons-1 {
+    margin-top: -39px;
+  }
+
+  .u-header .u-icon-2 {
+    height: 37px;
+    width: 37px;
+    margin-top: -37px;
+    margin-right: 46px;
+  }
+
+  .u-header .u-btn-1 {
+    margin-top: -33px;
+    margin-right: 91px;
+  }
+}
 .u-footer .u-sheet-1 {
   min-height: 263px;
 }
@@ -31505,7 +31560,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-footer .u-icon-1 {
-    margin-left: 136px;
+    margin-top: 216px;
+    margin-right: auto;
+    margin-left: 121px;
   }
 
   .u-footer .u-icon-2 {
@@ -31522,6 +31579,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-icon-1 {
+    margin-right: 278px;
     margin-left: 21px;
   }
 
